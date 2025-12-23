@@ -40,37 +40,6 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 ---
 
-## 💼 Experience
-
-### 🏢 Software Development Engineer Intern  
-**Bluestock Fintech** *(Sep 2025 – Oct 2025)*
-
-- Built a **React-based full-stack web application**
-- Implemented **secure authentication & dynamic content**
-- Optimized database queries → 🚀 **30% performance boost**
-- Delivered **responsive UI** using HTML, CSS & JavaScript
-
----
-
-## 🚀 Projects
-
-### ⚡ Electricity Billing System (Java)
-- Java Swing-based desktop application  
-- Reduced user training time by **30%**
-- Improved task completion by **20%**
-
-### 🎓 Praaptaank – Student Credit Score System (Java)
-- Automated admission credit scoring
-- Reduced processing time by **50%**
-- Built using **Java, Swing & JFrame**
-
-### 🧠 Face Recognition System (Python)
-- Real-time face recognition using **OpenCV**
-- Reduced identity fraud by **40%**
-- Enhanced system security
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
