@@ -77,7 +77,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikrantvaishnav&show_icons=true&theme=nord"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantvaishnav&theme=nord"/>
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=vikrantvaishnav&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 </p>
 
 
