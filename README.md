@@ -20,9 +20,9 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=vikrantvaishnav&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vikrantvaishnav?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/vikrantvaishnav?style=for-the-badge&logo=github" />
 </p>
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/Aman96-star/Aman96-star/main/transparent_gitgif.gif" />
