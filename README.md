@@ -85,11 +85,11 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 ## ☕ Support Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/YOUR_NAME">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
   </a>
-</p>
+</p> -->
 
 ---
 
