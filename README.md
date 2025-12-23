@@ -76,27 +76,10 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nord"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikrantvaishnav&show_icons=true&theme=nord"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantvaishnav&theme=nord"/>
 </p>
 
----
-
-## 🏆 Certifications
-
-- 🏅 Google IT Support — Coursera
-- 🏅 Walmart Advanced Software Engineering — Forage
-- 🏅 Java Training — IIT Bombay (Spoken Tutorial)
-- 🏅 Java — HackerRank
-
----
-
-## 📚 Achievements
-
-- 🥇 Participated in **3 National Hackathons**
-- 📄 Research Paper published on  
-  **“Image Processing Techniques for Medical Imaging”**  
-  *(SCRS Conference 2023)*
 
 ---
 
