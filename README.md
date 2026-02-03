@@ -69,14 +69,9 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 ## 📈 GitHub Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikrantvaishnav&show_icons=true&theme=nord&v=1"/>
-<img width="398"
-     src="https://github-readme-stats.vercel.app/api?username=vikrantvaishnav&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8&v=1"/>
-
-<img width="420"
-     src="https://nirzak-streak-stats.vercel.app/?user=vikrantvaishnav&theme=nord&hide_border=false&v=1"
-     alt="GitHub Streak Stats"/>
-<br/>
+<img width="398" src="https://github-readme-stats.vercel.app/api?username=vikrantvaishnav&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/>
+<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=vikrantvaishnav&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+<img src="https://img.shields.io/github/stars/vikrantvaishnav?style=for-the-badge&logo=github" /> </p>
 
 
 
