@@ -83,7 +83,6 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 <img width="420"
      src="https://nirzak-streak-stats.vercel.app/?user=vikrantvaishnav&theme=nord&hide_border=false&v=1"
      alt="GitHub Streak Stats"/>
-<br/>
   <img width="398"
        src="https://leetcard.jacoblin.cool/vaishnavvikrant167?theme=nord&font=JetBrains%20Mono&ext=contest"/>
 
