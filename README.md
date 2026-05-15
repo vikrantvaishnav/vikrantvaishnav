@@ -32,7 +32,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 <!-- Total Stars with GitHub Logo -->
 <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+       src="https://img.shields.io/github/stars/vikrantvaishnav?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
 <!-- Followers with GitHub Logo -->
 <a href="https://github.com/vikrantvaishnav?tab=followers" target="_blank">
