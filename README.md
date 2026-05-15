@@ -14,10 +14,10 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 </h3>
 
 <p align="center">
-📍 Hyderabad, India &nbsp;|&nbsp;
+📍 Hyderabad, India 
   <a href="mailto:vaishnavvikrant167@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" style="margin: 15px;" />
-</a> &nbsp;|&nbsp;
+</a> 
   <a href="https://www.linkedin.com/in/vikrant-vaishnav/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="margin: 15px;" />
 </a>
