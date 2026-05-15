@@ -8,7 +8,6 @@
 </p>
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">❂ Vikrant Vaishnav</h1>
 
 <h3 align="center">
 Aspiring Java Full Stack Developer | Java • Spring • React • SQL
@@ -16,11 +15,14 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 <p align="center">
 📍 Hyderabad, India &nbsp;|&nbsp;
-📧 <a href="mailto:vaishnavvikrant167@gmail.com">Email</a> &nbsp;|&nbsp;
-💼 <a href="https://www.linkedin.com/in/vikrant-vaishnav" target="_blank">LinkedIn</a>
-</p>
+  <a href="mailto:vaishnavvikrant167@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" style="margin: 15px;" />
+</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/vikrant-vaishnav/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="margin: 15px;" />
+</a>
+<p align="center">
 
----
 
 <!-- ===================== BADGES ===================== -->
  <div align="center">
