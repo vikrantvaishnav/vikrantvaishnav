@@ -1,4 +1,8 @@
 <!-- ===================== HEADER GIF ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Vikrant%20Vaishnav&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aman96-star/Aman96-star/main/KIROKAZE.gif" />
 </p>
