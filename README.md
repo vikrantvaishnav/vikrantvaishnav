@@ -74,22 +74,8 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nextjs,js,ts,html,css,tailwind,bootstrap,mysql,python,oracle,vscode,eclipse,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,react,nextjs,js,ts,html,css,tailwind,bootstrap,mysql,python,vscode,eclipse,git&theme=dark" />
 </p>
-
-
----
-
-
-## ☕ Support Me
-
-<!-- <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_NAME">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
-  </a>
-</p> -->
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art-2/green.gif"/>
