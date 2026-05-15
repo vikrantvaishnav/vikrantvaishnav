@@ -16,10 +16,10 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 <p align="center">
 📍 Hyderabad, India 
   <a href="mailto:vaishnavvikrant167@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" style="margin: 15px;" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" style="margin: 8px;" />
 </a> 
   <a href="https://www.linkedin.com/in/vikrant-vaishnav/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="margin: 15px;" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="margin: 8px;" />
 </a>
 <p align="center">
 
@@ -58,6 +58,18 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 - ✨ *Clean code > clever code*
 
 ---
+<!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vikrantvaishnav&theme=dark&background=282828&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+</div>
+
+<h3 align="center">🌱 Leetcode Status</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vaishnavvikrant167?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -92,18 +104,6 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 ---
 
-## 📈 GitHub Status
-
-<p align="center">
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=vikrantvaishnav&theme=nord&hide_border=false" alt="GitHub Streak Stats">
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <img width="398"
-       src="https://leetcard.jacoblin.cool/vaishnavvikrant167?theme=nord&font=JetBrains%20Mono&ext=contest"/>
-
-</p>
-
-
----
 
 ## ☕ Support Me
 
