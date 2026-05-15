@@ -23,11 +23,24 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 ---
 
 <!-- ===================== BADGES ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikrantvaishnav&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/vikrantvaishnav?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/vikrantvaishnav?style=for-the-badge&logo=github" />
-</p>
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/Aman96-star" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Aman96-star&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/Aman96-star?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/Aman96-star?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/Aman96-star/Aman96-star/main/transparent_gitgif.gif" />
 
